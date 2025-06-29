@@ -1,0 +1,11 @@
+{
+  "name": "INDEPEPE",
+  "symbol": "INPEPE",
+  "description": "🇺🇸 INDEPEPE ist der patriotischste Meme-Coin auf Solana. Inspiriert vom 4. Juli – mit Freiheit, Pepe-Vibes und maximaler Meme-Power.",
+  "image": "https://raw.githubusercontent.com/DEIN-GITHUB-NAME/indepepe-token/main/assets/logo.png",
+  "twitter": "https://twitter.com/INDEPEPEarmy",
+  "telegram": "https://t.me/INDEPEPEarmy",
+  "website": "https://indepepe.carrd.co",
+  "chain": "solana",
+  "address": "GfnE2xnoNsCSSVxLJo4Kh7CqgSjcjB4RGTaytPgve8YV"
+}
